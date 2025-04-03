@@ -1,6 +1,10 @@
 # 👩‍💻 Sobre mí
 
-¡Hola! Soy **Deiver Pernia** un **Informático** con casi **1 año de experiencia**. He trabajado con tecnologías como **HTML, CSS, JavaScript, Vue.js Firebase y Supabase**. También estoy explorando nuevas áreas como **UI/UX, PHP, Laravel y Figma**. En mi tiempo libre, me dedico a mejorar mis habilidades, trabajar en proyectos personales, desarrollar ideas innovadoras y avanzar en mis estudios de **Ingeniería en Informática**. Puedes conocer más sobre mi trabajo en [deivermperniah.dev](https://deivermperniah.dev).
+¡Hola! Soy **Deiver Pernia** un **Informático** con casi **1 año de experiencia**. Mis conocimientos abarcan: **Frontend, Backend, Bases de Datos, Sistemas Operativos** y **Soporte Técnico**.
+
+Actualmente, me encuentro ampliando mis habilidades mientras curso **Ingeniería en Informática**. En mi tiempo libre, desarrollo proyectos personales e ideas innovadoras para seguir creciendo profesionalmente.
+
+📌 **Conoce más de mi trabajo:**  [deivermperniah.dev](https://deivermperniah.dev/)
 
 ## 📒 Contacto
 
@@ -10,7 +14,7 @@
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:deivermperniah@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/584125655447)
 
-## 🛠 Habilidades Técnicas
+## 🛠 Habilidades
 
 ### Frontend
 
@@ -40,7 +44,7 @@
 ![Hardware](https://img.shields.io/badge/Hardware-%23FF9E0F.svg?style=for-the-badge&logo=raspberry-pi&logoColor=white)
 ![Redes](https://img.shields.io/badge/Redes-%2300A98C.svg?style=for-the-badge&logo=cisco&logoColor=white)
 
-### Herramientas
+## 🧰 Herramientas
 
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
