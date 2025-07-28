@@ -95,12 +95,12 @@ Actualmente, me encuentro ampliando mis habilidades mientras curso **Ingeniería
 
 ### Desarrollo Web
 
-*2022 - 2024*
+*Enero de 2022 - Junio de 2022*
 
 **Udemy**
 
 ### Redes
 
-*2022 - 2023*
+*Julio de 2022 - Diciembre de 2023*
 
 **Platzi**
