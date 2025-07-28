@@ -27,11 +27,12 @@ Actualmente, me encuentro ampliando mis habilidades mientras curso **Ingeniería
 
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
+![Supabase](https://img.shields.io/badge/supabase-%2300C7B7.svg?style=for-the-badge&logo=supabase&logoColor=white)
 
 ### Bases de Datos
 
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Supabase](https://img.shields.io/badge/supabase-%2300C7B7.svg?style=for-the-badge&logo=supabase&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### Sistemas Operativos
 
@@ -49,7 +50,6 @@ Actualmente, me encuentro ampliando mis habilidades mientras curso **Ingeniería
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ## 💼 Experiencia
 
@@ -57,7 +57,7 @@ Actualmente, me encuentro ampliando mis habilidades mientras curso **Ingeniería
 
 *Agosto de 2023 - Diciembre 2023*
 
-- Brindé soporte técnico a usuarios, resolviendo incidencias de software y hardware en computadoras e impresoras. Diagnostiqué y reparé equipos, instalando y configurando sistemas operativos y software.
+- Brindé soporte técnico a usuarios, resolviendo incidencias de software y hardware en computadoras. Diagnostiqué y reparé equipos, instalando y configurando sistemas operativos y software.
 - Realicé mantenimiento preventivo y correctivo de redes, incluyendo la configuración
   y reparación de routers, switches y cableado. Resolví problemas de conectividad,
   gestionando la infraestructura para minimizar el tiempo de inactividad.
@@ -66,15 +66,15 @@ Actualmente, me encuentro ampliando mis habilidades mientras curso **Ingeniería
 
 *Febrero de 2024 - Junio de 2024*
 
-- Participé en el desarrollo frontend de Biblia.chat, Redmasiva AI y B1omed utilizando HTML, CSS, Tailwind, JavaScript y Vue.js. Implementé funcionalidades interactivas y optimicé el rendimiento y la experiencia de usuario.
+- Participé en el desarrollo frontend de Biblia.chat, Redmasiva AI y B1omed utilizando HTML, CSS, JavaScript y Vue.js. Implementé funcionalidades interactivas y optimicé el rendimiento y la experiencia de usuario.
 
 ### Técnico de Soporte Informático y Desarrollador Frontend - Alimentos Venepan
 
 *Julio de 2024 - Octubre de 2024*
 
-- Resolví problemas de software y hardware en computadoras e impresoras para usuarios instalando, configurando y actualizando sistemas operativos y software. Reparé equipos y documenté soluciones para agilizar futuras incidencias.
+- Resolví problemas de software y hardware en computadoras para usuarios instalando, configurando y actualizando sistemas operativos y software. Reparé equipos y documenté soluciones para agilizar futuras incidencias.
 - Mantuve y gestioné la infraestructura de redes (LAN/WAN), configurando y administrando routers, switches y firewalls. Resolví problemas de conectividad, implementé medidas de seguridad y monitoreé el rendimiento de la red.
-- Administré bases de datos (MySQL, SQL Server) y sistemas administrativos (ERP, CRM), garantizando la integridad y disponibilidad de la información. Realicé copias de seguridad y optimicé el rendimiento de las bases de datos.
+- Administré bases de datos (MySQL) y sistemas administrativos (ERP), garantizando la integridad y disponibilidad de la información. Realicé copias de seguridad y optimicé el rendimiento de las bases de datos.
 - Desarrollé y mantuve la intranet de la empresa, implementando funcionalidades para mejorar la comunicación interna y el acceso a la información, utilizando HTML, CSS, JS y Vue.
 
 ## 🎓 Educación
@@ -90,17 +90,3 @@ Actualmente, me encuentro ampliando mis habilidades mientras curso **Ingeniería
 *Octubre de 2024 - Presente*
 
 **Universidad Politécnica Territorial de Yaracuy “Arístides Bastidas”**
-
-## 🖥️ Cursos
-
-### Desarrollo Web
-
-*Enero de 2022 - Junio de 2022*
-
-**Udemy**
-
-### Redes
-
-*Julio de 2022 - Diciembre de 2023*
-
-**Platzi**
