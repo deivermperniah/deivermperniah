@@ -6,14 +6,6 @@ Actualmente, me encuentro ampliando mis habilidades mientras curso **Ingeniería
 
 📌 **Conoce más de mi trabajo:**  [deivermperniah.dev](https://deivermperniah.dev/)
 
-## 📒 Contacto
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deivermperniah)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/deivermperniah)
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/deivermperniah)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:deivermperniah@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/584125655447)
-
 ## 🛠 Habilidades
 
 ### Frontend
