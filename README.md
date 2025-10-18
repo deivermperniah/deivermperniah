@@ -1,6 +1,6 @@
 # 👩‍💻 Sobre mí
 
-¡Hola! Soy **Deiver Pernia** un **Informático** con casi **1 año de experiencia**. Mis conocimientos abarcan: **Frontend, Backend, Bases de Datos, Sistemas Operativos** y **Soporte Técnico**.
+¡Hola! Soy **Deiver Pernia** un **Informático** con **1 año de experiencia**. Mis conocimientos abarcan: **Frontend, Backend, Bases de Datos, Sistemas Operativos** y **Soporte Técnico**.
 
 Actualmente, me encuentro ampliando mis habilidades mientras curso **Ingeniería en Informática**. En mi tiempo libre, desarrollo proyectos personales e ideas innovadoras para seguir creciendo profesionalmente.
 
