@@ -4,7 +4,7 @@
 
 Actualmente, me encuentro ampliando mis habilidades mientras curso **Ingeniería en Informática**. En mi tiempo libre, desarrollo proyectos personales e ideas innovadoras para seguir creciendo profesionalmente.
 
-📌 **Conoce más de mi trabajo:**  [deivermperniah.dev](https://deivermperniah.dev/)
+📌 **Conoce más de mi trabajo:**  [deivermperniah.vercel.app](https://deivermperniah.vercel.app)
 
 ## 🛠 Habilidades
 
@@ -17,7 +17,6 @@ Actualmente, me encuentro ampliando mis habilidades mientras curso **Ingeniería
 
 ### Backend
 
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
 ![Supabase](https://img.shields.io/badge/supabase-%2300C7B7.svg?style=for-the-badge&logo=supabase&logoColor=white)
 
