@@ -48,25 +48,23 @@ Actualmente, me encuentro ampliando mis habilidades mientras curso **Ingeniería
 
 *Agosto de 2023 - Diciembre 2023*
 
-- Brindé soporte técnico a usuarios, resolviendo incidencias de software y hardware en computadoras. Diagnostiqué y reparé equipos, instalando y configurando sistemas operativos y software.
-- Realicé mantenimiento preventivo y correctivo de redes, incluyendo la configuración
-  y reparación de routers, switches y cableado. Resolví problemas de conectividad,
-  gestionando la infraestructura para minimizar el tiempo de inactividad.
+- Brindé soporte técnico a usuarios, resolviendo incidencias de software y hardware, realizando diagnóstico y reparación de equipos, así como la instalación y configuración de sistemas operativos y aplicaciones.
+- Ejecuté mantenimiento preventivo y correctivo de redes, incluyendo la configuración y reparación de routers, switches y cableado estructurado, solucionando problemas de conectividad y reduciendo el tiempo de inactividad de la infraestructura.
 
 ### Desarrollador Frontend (Pasantías) - Redmasiva
 
 *Febrero de 2024 - Junio de 2024*
 
-- Participé en el desarrollo frontend de Biblia.chat, Redmasiva AI y B1omed utilizando HTML, CSS, JavaScript y Vue.js. Implementé funcionalidades interactivas y optimicé el rendimiento y la experiencia de usuario.
+- Participé en el desarrollo frontend de proyectos como Biblia.chat, Redmasiva AI y B1omed, utilizando HTML, CSS, JavaScript y Vue.js, implementando funcionalidades interactivas y optimizando el rendimiento y la experiencia de usuario.
 
 ### Técnico de Soporte Informático y Desarrollador Frontend - Alimentos Venepan
 
 *Julio de 2024 - Octubre de 2024*
 
-- Resolví problemas de software y hardware en computadoras para usuarios instalando, configurando y actualizando sistemas operativos y software. Reparé equipos y documenté soluciones para agilizar futuras incidencias.
-- Mantuve y gestioné la infraestructura de redes (LAN/WAN), configurando y administrando routers, switches y firewalls. Resolví problemas de conectividad, implementé medidas de seguridad y monitoreé el rendimiento de la red.
-- Administré bases de datos (MySQL) y sistemas administrativos (ERP), garantizando la integridad y disponibilidad de la información. Realicé copias de seguridad y optimicé el rendimiento de las bases de datos.
-- Desarrollé y mantuve la intranet de la empresa, implementando funcionalidades para mejorar la comunicación interna y el acceso a la información, utilizando HTML, CSS, JS y Vue.
+- Resolví incidencias de software y hardware para usuarios finales mediante la instalación, configuración y actualización de sistemas operativos y aplicaciones, realizando reparaciones de equipos y documentando soluciones para agilizar la atención de futuras incidencias.
+- Administré y mantuve la infraestructura de redes LAN/WAN, configurando routers, switches y firewalls, resolviendo problemas de conectividad, aplicando medidas de seguridad y monitoreando el rendimiento de la red.
+- Gestioné bases de datos MySQL y sistemas administrativos (ERP), asegurando la integridad, disponibilidad y respaldo de la información mediante copias de seguridad y optimización del rendimiento.
+- Desarrollé y mantuve la intranet corporativa, implementando funcionalidades para mejorar la comunicación interna y el acceso a la información, utilizando HTML, CSS, JavaScript y Vue.js.
 
 ## 🎓 Educación
 
