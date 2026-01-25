@@ -61,7 +61,7 @@ Actualmente, me encuentro ampliando mis habilidades mientras curso **Ingeniería
 
 *Julio de 2024 - Octubre de 2024*
 
-- Resolví incidencias de software y hardware para usuarios finales mediante la instalación, configuración y actualización de sistemas operativos y aplicaciones, realizando reparaciones de equipos y documentando soluciones para agilizar la atención de futuras incidencias.
+- Resolví incidencias de software y hardware para usuarios finales, realizando instalación, configuración y actualización de sistemas operativos y aplicaciones, así como la reparación de equipos y documentación de soluciones.
 - Administré y mantuve la infraestructura de redes LAN/WAN, configurando routers, switches y firewalls, resolviendo problemas de conectividad, aplicando medidas de seguridad y monitoreando el rendimiento de la red.
 - Gestioné bases de datos MySQL y sistemas administrativos (ERP), asegurando la integridad, disponibilidad y respaldo de la información mediante copias de seguridad y optimización del rendimiento.
 - Desarrollé y mantuve la intranet corporativa, implementando funcionalidades para mejorar la comunicación interna y el acceso a la información, utilizando HTML, CSS, JavaScript y Vue.js.
