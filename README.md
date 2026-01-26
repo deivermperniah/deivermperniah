@@ -4,8 +4,6 @@
 
 Actualmente, me encuentro ampliando mis habilidades mientras curso **Ingeniería en Informática**. En mi tiempo libre, desarrollo proyectos personales e ideas innovadoras para seguir creciendo profesionalmente.
 
-📌 **Conoce más de mi trabajo:**  [deivermperniah.vercel.app](https://deivermperniah.vercel.app)
-
 ## 📬 Contacto
 
 📧 **Email:** deivermperniah@gmail.com
