@@ -6,6 +6,18 @@ Actualmente, me encuentro ampliando mis habilidades mientras curso **Ingeniería
 
 📌 **Conoce más de mi trabajo:**  [deivermperniah.vercel.app](https://deivermperniah.vercel.app)
 
+## 📬 Contacto
+
+📧 **Email:** deivermperniah@gmail.com
+
+📱 **Teléfono :** +51 943 458 410
+
+## 🌍 Idiomas
+
+🇪🇸 **Español - Nativo**
+
+🇺🇸 **Inglés - A2**
+
 ## 🛠 Habilidades
 
 ### Frontend
