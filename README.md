@@ -8,7 +8,7 @@ Actualmente, me encuentro ampliando mis habilidades mientras curso **Ingeniería
 
 📧 **Email:** deivermperniah@gmail.com
 
-📱 **Teléfono :** +51 943 458 410
+📱 **Teléfono :** +51 927 494 171
 
 ## 🌍 Idiomas
 
