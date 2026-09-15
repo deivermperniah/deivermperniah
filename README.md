@@ -1,91 +1,79 @@
-# 👩‍💻 Sobre mí
+<div align="center">
 
-¡Hola! Soy **Deiver Pernia** un **Informático** con **1 año de experiencia**. Mis conocimientos abarcan: **Frontend, Backend, Bases de Datos, Sistemas Operativos** y **Soporte Técnico**.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:f72585,50:101b3d,100:00f5d4&height=180&section=header&text=Deiver%20Pernia&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=FULL%20STACK%20DEVELOPER&descAlignY=58&descSize=14" width="100%" alt="Banner de Deiver Pernia">
 
-Actualmente, me encuentro ampliando mis habilidades mientras curso **Ingeniería en Informática**. En mi tiempo libre, desarrollo proyectos personales e ideas innovadoras para seguir creciendo profesionalmente.
+<a href="https://deivermperniah.vercel.app/">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2800&pause=900&color=00F5D4&center=true&vCenter=true&width=700&lines=Apasionado+por+la+tecnolog%C3%ADa;Disponible+para+nuevos+desaf%C3%ADos;Aprendiendo%2C+creando+y+mejorando" alt="Presentación animada">
+</a>
 
-## 📬 Contacto
+<p>
+  <a href="https://deivermperniah.vercel.app/"><img src="https://img.shields.io/badge/Portafolio-0f766e?style=for-the-badge&logo=vercel&logoColor=ffffff" alt="Portafolio"></a>
+  <a href="https://www.linkedin.com/in/deivermperniah/"><img src="https://img.shields.io/badge/LinkedIn-00a8ff?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://www.instagram.com/deivermperniah/"><img src="https://img.shields.io/badge/Instagram-f72585?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
+  <a href="https://x.com/deivermperniah"><img src="https://img.shields.io/badge/X-111827?style=for-the-badge&logo=x&logoColor=00f5d4" alt="X"></a>
+</p>
 
-📧 **Email:** deivermperniah@gmail.com
+</div>
 
-📱 **Teléfono :** +51 927 494 171
+## >_ Sobre mí
 
-## 🌍 Idiomas
+Desarrollador **Full Stack** con experiencia profesional construyendo software con usuarios reales y sistemas internos de negocio.
 
-🇪🇸 **Español - Nativo**
+Actualmente curso **Ingeniería en Informática** y desarrollo proyectos de forma independiente. Me caracterizo por el aprendizaje continuo, la iniciativa y la capacidad de construir productos de principio a fin.
 
-🇺🇸 **Inglés - A2**
+## Mi stack
 
-## 🛠 Habilidades
+<div align="center">
 
-### Frontend
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vue,astro,flutter,py,nodejs,express,supabase,postgres,mysql,git,github,figma,vercel,linux,ubuntu,windows&perline=7" alt="Tecnologías y herramientas">
 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Vue](https://img.shields.io/badge/Vue-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
+</div>
 
-### Backend
+## Proyectos destacados
 
-![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
-![Supabase](https://img.shields.io/badge/supabase-%2300C7B7.svg?style=for-the-badge&logo=supabase&logoColor=white)
+### [cocbase](https://github.com/deivermperniah)
 
-### Bases de Datos
+Aplicación móvil para compartir y explorar bases de Clash of Clans.
 
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+**React Native · Supabase**
 
-### Sistemas Operativos
+### [cocbase-admin](https://cocbase-admin.vercel.app/)
 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+Panel web para administrar bases de Clash of Clans (dashboard, eliminación y gestión).
 
-### Soporte Técnico
+**Vue · TypeScript · shadcn · Supabase**
 
-![Software](https://img.shields.io/badge/Software-%23007ACC.svg?style=for-the-badge&logo=adobe&logoColor=white)
-![Hardware](https://img.shields.io/badge/Hardware-%23FF9E0F.svg?style=for-the-badge&logo=raspberry-pi&logoColor=white)
-![Redes](https://img.shields.io/badge/Redes-%2300A98C.svg?style=for-the-badge&logo=cisco&logoColor=white)
+### [diezmapp](https://diezmapp.vercel.app/)
 
-## 🧰 Herramientas
+Aplicacion web para administrar sobres de diezmos, ofrendas, transferencias y reportes por iglesia.
 
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+**Vue · PrimeVue · Node.js · Express · PostgreSQL · pnpm**
 
-## 💼 Experiencia
+### [inge](https://dareas.vercel.app/)
 
-### Técnico de Soporte Informático - Instituto Universitario Adventista de Venezuela
+Herramienta para organizar y dar seguimiento a tareas académicas, con persistencia local en el navegador.
 
-*Agosto de 2023 - Diciembre 2023*
+**Astro · Supabase**
 
-- Brindé soporte técnico a usuarios, resolviendo incidencias de software y hardware, realizando diagnóstico y reparación de equipos, así como la instalación y configuración de sistemas operativos y aplicaciones.
-- Ejecuté mantenimiento preventivo y correctivo de redes, incluyendo la configuración y reparación de routers, switches y cableado estructurado, solucionando problemas de conectividad y reduciendo el tiempo de inactividad de la infraestructura.
+## Estadísticas
 
-### Desarrollador Frontend (Pasantías) - Redmasiva
+<div align="center">
 
-*Febrero de 2024 - Junio de 2024*
+<a href="https://github.com/deivermperniah">
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=deivermperniah&theme=radical" alt="Estadísticas de GitHub">
+</a>
+<a href="https://github.com/deivermperniah">
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=deivermperniah&theme=radical" alt="Lenguajes más utilizados">
+</a>
 
-- Participé en el desarrollo frontend de proyectos como Biblia.chat, Redmasiva AI y B1omed, utilizando HTML, CSS, JavaScript y Vue.js, implementando funcionalidades interactivas y optimizando el rendimiento y la experiencia de usuario.
+<br>
 
-### Técnico de Soporte Informático y Desarrollador Frontend - Alimentos Venepan
+<img src="https://streak-stats.demolab.com?user=deivermperniah&theme=dark&hide_border=true&background=080b1a&ring=00f5d4&fire=f72585&currStreakLabel=00f5d4&sideLabels=dbeafe&dates=94a3b8" alt="Racha de contribuciones">
 
-*Julio de 2024 - Octubre de 2024*
+</div>
 
-- Resolví incidencias de software y hardware para usuarios finales, realizando instalación, configuración y actualización de sistemas operativos y aplicaciones, así como la reparación de equipos y documentación de soluciones.
-- Administré y mantuve la infraestructura de redes LAN/WAN, configurando routers, switches y firewalls, resolviendo problemas de conectividad, aplicando medidas de seguridad y monitoreando el rendimiento de la red.
-- Gestioné bases de datos MySQL y sistemas administrativos (ERP), asegurando la integridad, disponibilidad y respaldo de la información mediante copias de seguridad y optimización del rendimiento.
-- Desarrollé y mantuve la intranet corporativa, implementando funcionalidades para mejorar la comunicación interna y el acceso a la información, utilizando HTML, CSS, JavaScript y Vue.js.
+<div align="center">
 
-## 🎓 Educación
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:f72585,50:101b3d,100:00f5d4&height=100&section=footer" width="100%" alt="Pie de página">
 
-### Técnico Superior Universitario en Informática
-
-*Enero de 2021 - Junio de 2024*
-
-**Instituto Universitario Adventista de Venezuela**
-
-### Ingeniería en Informática
-
-*Octubre de 2024 - Presente*
-
-**Universidad Politécnica Territorial de Yaracuy “Arístides Bastidas”**
+</div>
