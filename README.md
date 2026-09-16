@@ -15,13 +15,13 @@
 
 </div>
 
-## >\_ Sobre mí
+## Sobre mí
 
 Desarrollador **Full Stack** con experiencia profesional construyendo software con usuarios reales y sistemas internos de negocio.
 
 Actualmente curso **Ingeniería en Informática** y desarrollo proyectos de forma independiente. Me caracterizo por el aprendizaje continuo, la iniciativa y la capacidad de construir productos de principio a fin.
 
-## Mi stack
+## Stack
 
 <div align="center">
 
@@ -39,13 +39,13 @@ Aplicación móvil para compartir y explorar bases de Clash of Clans.
 
 ### [cocbase-admin](https://cocbase-admin.vercel.app/)
 
-Panel web para administrar bases de Clash of Clans (dashboard, eliminación y gestión).
+Panel web para administrar bases de Clash of Clans con dashboard, gestión y administración de contenido.
 
 **Vue · TypeScript · shadcn · Supabase**
 
 ### [diezmapp](https://diezmapp.vercel.app/)
 
-Aplicacion web para administrar sobres de diezmos, ofrendas, transferencias y reportes por iglesia.
+Aplicación web para administrar sobres de diezmos, ofrendas, transferencias y reportes por iglesia.
 
 **Vue · PrimeVue · Node.js · Express · PostgreSQL · pnpm**
 
