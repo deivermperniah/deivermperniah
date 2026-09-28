@@ -34,7 +34,7 @@ Aplicación móvil para compartir y explorar bases de Clash of Clans.
 
 **React Native · Supabase**
 
-[![Código](https://img.shields.io/badge/Código-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/deivermperniah/cocbase)
+[![Código](https://img.shields.io/badge/Código-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/deivermperniah/cocbase-app)
 [![Demo](https://img.shields.io/badge/Demo-0f766e?style=flat-square&logo=vercel&logoColor=white)](https://cocbase.vercel.app/descargar)
 
 ---
@@ -44,7 +44,7 @@ Panel web para administrar bases de Clash of Clans con dashboard, gestión y adm
 
 **Vue · shadcn · TypeScript · Supabase**
 
-[![Código](https://img.shields.io/badge/Código-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/deivermperniah/cocbase-admin)
+[![Código](https://img.shields.io/badge/Código-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/deivermperniah/cocbase-web)
 [![Demo](https://img.shields.io/badge/Demo-0f766e?style=flat-square&logo=vercel&logoColor=white)](https://cocbase.vercel.app)
 
 ---
