@@ -29,23 +29,23 @@ Actualmente curso **Ingeniería en Informática** y desarrollo proyectos de form
 
 ## 🚀 Proyectos destacados
 
-### cocbase
+### cocbase-app
 Aplicación móvil para compartir y explorar bases de Clash of Clans.
 
 **React Native · Supabase**
 
 [![Código](https://img.shields.io/badge/Código-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/deivermperniah/cocbase)
-[![Demo](https://img.shields.io/badge/Demo-0f766e?style=flat-square&logo=vercel&logoColor=white)](https://cocbase.vercel.app/)
+[![Demo](https://img.shields.io/badge/Demo-0f766e?style=flat-square&logo=vercel&logoColor=white)](https://cocbase.vercel.app/descargar)
 
 ---
 
-### cocbase-admin
+### cocbase-web
 Panel web para administrar bases de Clash of Clans con dashboard, gestión y administración de contenido.
 
 **Vue · shadcn · TypeScript · Supabase**
 
 [![Código](https://img.shields.io/badge/Código-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/deivermperniah/cocbase-admin)
-[![Demo](https://img.shields.io/badge/Demo-0f766e?style=flat-square&logo=vercel&logoColor=white)](https://cocbase-admin.vercel.app/)
+[![Demo](https://img.shields.io/badge/Demo-0f766e?style=flat-square&logo=vercel&logoColor=white)](https://cocbase.vercel.app)
 
 ---
 
@@ -65,7 +65,7 @@ Herramienta para organizar y dar seguimiento a tareas académicas, con persisten
 **Astro · Supabase**
 
 [![Código](https://img.shields.io/badge/Código-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/deivermperniah/inge)
-[![Demo](https://img.shields.io/badge/Demo-0f766e?style=flat-square&logo=vercel&logoColor=white)](https://dareas.vercel.app/)
+[![Demo](https://img.shields.io/badge/Demo-0f766e?style=flat-square&logo=vercel&logoColor=white)](#)
 
 <br>
 
