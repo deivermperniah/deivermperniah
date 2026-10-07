@@ -30,9 +30,9 @@ Actualmente curso **Ingeniería en Informática** y desarrollo proyectos de form
 ## 🚀 Proyectos destacados
 
 ### cocbase-app
-Aplicación móvil para compartir y explorar bases de Clash of Clans.
+Aplicación móvil para descubrir, guardar y compartir bases de Clash of Clans.
 
-**React Native · Supabase**
+**React Native · Expo · Supabase**
 
 [![Código](https://img.shields.io/badge/Código-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/deivermperniah/cocbase-app)
 [![Demo](https://img.shields.io/badge/Demo-0f766e?style=flat-square&logo=vercel&logoColor=white)](https://cocbase.vercel.app/descargar)
@@ -40,32 +40,42 @@ Aplicación móvil para compartir y explorar bases de Clash of Clans.
 ---
 
 ### cocbase-web
-Panel web para administrar bases de Clash of Clans con dashboard, gestión y administración de contenido.
+Plataforma web para explorar, filtrar y compartir bases de Clash of Clans.
 
-**Vue · shadcn · TypeScript · Supabase**
+**Astro · Vue · Tailwind CSS · Supabase**
 
 [![Código](https://img.shields.io/badge/Código-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/deivermperniah/cocbase-web)
-[![Demo](https://img.shields.io/badge/Demo-0f766e?style=flat-square&logo=vercel&logoColor=white)](https://cocbase.vercel.app)
+[![Demo](https://img.shields.io/badge/Demo-0f766e?style=flat-square&logo=vercel&logoColor=white)](https://cocbase.vercel.app/)
+
+---
+
+### inge
+Gestor de tareas académicas organizadas por asignatura y trimestre.
+
+**Astro · React · Tailwind CSS · Supabase**
+
+[![Código](https://img.shields.io/badge/Código-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/deivermperniah/inge)
+[![Demo](https://img.shields.io/badge/Demo-0f766e?style=flat-square&logo=vercel&logoColor=white)](https://dareas.vercel.app/)
 
 ---
 
 ### diezmapp
-Aplicación web para administrar sobres de diezmos, ofrendas, transferencias y reportes por iglesia.
+Proyecto académico — gestión de diezmos, ofrendas y reportes por iglesia.
 
-**Vue · PrimeVue · Node.js · Express · PostgreSQL**
+**Vue · Vite · PrimeVue · Node.js · Express · PostgreSQL**
 
 [![Código](https://img.shields.io/badge/Código-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/deivermperniah/diezmapp)
 [![Demo](https://img.shields.io/badge/Demo-0f766e?style=flat-square&logo=vercel&logoColor=white)](https://diezmapp.vercel.app/)
 
 ---
 
-### inge
-Herramienta para organizar y dar seguimiento a tareas académicas, con persistencia local en el navegador.
+### cyberguard
+Proyecto académico — juego narrativo sobre la respuesta a un ataque de ransomware en IUNAV.
 
-**Astro · Supabase**
+**HTML · CSS · JavaScript**
 
-[![Código](https://img.shields.io/badge/Código-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/deivermperniah/inge)
-[![Demo](https://img.shields.io/badge/Demo-0f766e?style=flat-square&logo=vercel&logoColor=white)](#)
+[![Código](https://img.shields.io/badge/Código-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/deivermperniah/cyberguard)
+[![Demo](https://img.shields.io/badge/Demo-0f766e?style=flat-square&logo=vercel&logoColor=white)](https://cyberguard-iunav.vercel.app/)
 
 <br>
 
