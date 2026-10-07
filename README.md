@@ -55,7 +55,7 @@ Gestor de tareas académicas organizadas por asignatura y trimestre.
 **Astro · React · Tailwind CSS · Supabase**
 
 [![Código](https://img.shields.io/badge/Código-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/deivermperniah/inge)
-[![Demo](https://img.shields.io/badge/Demo-0f766e?style=flat-square&logo=vercel&logoColor=white)](https://dareas.vercel.app/)
+[![Demo](https://img.shields.io/badge/Demo-0f766e?style=flat-square&logo=vercel&logoColor=white)](https://inge-iunav.vercel.app/)
 
 ---
 
