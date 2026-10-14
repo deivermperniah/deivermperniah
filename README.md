@@ -3,7 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:f72585,50:101b3d,100:00f5d4&height=180&section=header&text=Deiver%20Pernia&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=FULL%20STACK%20DEVELOPER&descAlignY=58&descSize=14" width="100%" alt="Banner de Deiver Pernia">
 
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2800&pause=900&color=00F5D4&center=true&vCenter=true&width=700&lines=Apasionado+por+la+tecnolog%C3%ADa;Disponible+para+nuevos+desaf%C3%ADos;Aprendiendo%2C+creando+y+mejorando" alt="Presentación animada">
- 
+
   <p>
     <a href="https://deivermperniah.vercel.app/"><img src="https://img.shields.io/badge/Portafolio-0f766e?style=for-the-badge&logo=vercel&logoColor=ffffff" alt="Portafolio"></a>
     <a href="https://www.linkedin.com/in/deivermperniah/"><img src="https://img.shields.io/badge/LinkedIn-00a8ff?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
@@ -60,7 +60,7 @@ Gestor de tareas académicas organizadas por asignatura y trimestre.
 ---
 
 ### diezmapp
-Proyecto académico — gestión de diezmos, ofrendas y reportes por iglesia.
+Proyecto académico: gestión de diezmos, ofrendas y reportes por iglesia.
 
 **Vue · Vite · PrimeVue · Node.js · Express · PostgreSQL**
 
@@ -70,7 +70,7 @@ Proyecto académico — gestión de diezmos, ofrendas y reportes por iglesia.
 ---
 
 ### cyberguard
-Proyecto académico — juego narrativo sobre la respuesta a un ataque de ransomware en IUNAV.
+Proyecto académico: juego narrativo sobre la respuesta a un ataque de ransomware en IUNAV.
 
 **HTML · CSS · JavaScript**
 
