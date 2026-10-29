@@ -67,18 +67,6 @@ Proyecto académico: gestión de diezmos, ofrendas y reportes por iglesia.
 [![Código](https://img.shields.io/badge/Código-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/deivermperniah/diezmapp)
 [![Demo](https://img.shields.io/badge/Demo-0f766e?style=flat-square&logo=vercel&logoColor=white)](https://diezmapp.vercel.app/)
 
----
-
-### cyberguard
-Proyecto académico: juego narrativo sobre la respuesta a un ataque de ransomware en IUNAV.
-
-**HTML · CSS · JavaScript**
-
-[![Código](https://img.shields.io/badge/Código-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/deivermperniah/cyberguard)
-[![Demo](https://img.shields.io/badge/Demo-0f766e?style=flat-square&logo=vercel&logoColor=white)](https://cyberguard-iunav.vercel.app/)
-
-<br>
-
 ## 📊 Estadísticas
 
 <div align="center">
