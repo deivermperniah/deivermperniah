@@ -15,7 +15,7 @@
 
 ## 👨🏻‍💻 Sobre mí
 
-Desarrollador **Full Stack** con experiencia profesional construyendo software con usuarios reales y sistemas internos de negocio.
+**Full Stack Developer** con experiencia profesional construyendo software con usuarios reales y sistemas internos de negocio.
 
 Actualmente curso **Ingeniería en Informática** y desarrollo proyectos de forma independiente. Me caracterizo por el aprendizaje continuo, la iniciativa y la capacidad de construir productos de principio a fin.
 
