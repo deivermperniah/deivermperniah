@@ -8,16 +8,15 @@
     <a href="https://deivermperniah.vercel.app/"><img src="https://img.shields.io/badge/Portafolio-0f766e?style=for-the-badge&logo=vercel&logoColor=ffffff" alt="Portafolio"></a>
     <a href="https://www.linkedin.com/in/deivermperniah/"><img src="https://img.shields.io/badge/LinkedIn-00a8ff?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
     <a href="https://www.instagram.com/deivermperniah/"><img src="https://img.shields.io/badge/Instagram-f72585?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
-    <a href="https://x.com/deivermperniah"><img src="https://img.shields.io/badge/X-111827?style=for-the-badge&logo=x&logoColor=00f5d4" alt="X"></a>
   </p>
 
 </div>
 
 ## 👨🏻‍💻 Sobre mí
 
-**Full Stack Developer** con experiencia profesional construyendo software con usuarios reales y sistemas internos de negocio.
+Soy **desarrollador de software Full Stack**. Diseño y construyo aplicaciones multiplataforma con **TypeScript, React, Vue, React Native, Node.js y Supabase**, apoyándome en herramientas de IA para desarrollar de forma más rápida y eficiente.
 
-Actualmente curso **Ingeniería en Informática** y desarrollo proyectos de forma independiente. Me caracterizo por el aprendizaje continuo, la iniciativa y la capacidad de construir productos de principio a fin.
+He participado en productos con usuarios reales, modernizado sistemas empresariales y desarrollado proyectos propios que tengo en producción. Actualmente curso **Ingeniería en Informática**.
 
 ## 🛠️ Mi stack
 
